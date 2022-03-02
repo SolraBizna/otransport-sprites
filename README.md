@@ -1,0 +1,3 @@
+Someone wanted permission to use the ZTransport sprites for a mod that teleports resources around the map instead of between different instances of the game. Since I would like ZTransport and a resource-teleporting mod to be able to coexist in the same game without confusion, I don't want the graphics to be *identical*... so I asked Corfid Bizna, the artist who drew the ZTransport sprites, if she would draw modified versions of the sprites with distinct symbols. She did. Here they are.
+
+Permission is granted to use these graphics in any Oxygen Not Included mod for which they would be appropriate. Please credit Corfid Bizna, the amazing art chameleon who drew these sprites.
